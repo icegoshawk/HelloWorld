@@ -4,6 +4,18 @@ First repository
 
 This is where I study and try functions of github.
 
+[**Google**](https://www.google.com.hk/?gws_rd=ssl)
+
+[*GitHub*](https://github.com/)
+
+[WWDC - Apple Developer](https://developer.apple.com/wwdc/)
+
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| __col 3 is__      | right-aligned | $1600 |
+| _col 2 is_      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
 Updated
 ----------
 # Title 1
@@ -25,7 +37,7 @@ private void showMethod() {
         StringUtils.isEmpty(FOO_STRING);
     }
 #### Title 4
-> Quote something here
+> Quote something here 中文 __中文粗体__ _中文斜体_ **中文粗体** *中文斜体*
 ##### Title 5
 Ordered columns
 1. Column 1
