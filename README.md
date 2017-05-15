@@ -68,5 +68,8 @@ Unordered items
 ###### Title 6
 通用入口主方签名为`public static void main(String[] args);`，参数也可为可变参数`String... args`，即为`public static void main(String... args);`，还可扩充为`public strictfp final synchronized static void main(String[] args) throws Exception;`
 
-
+### Cloneable
+- clone!=original
+- clone.getClass()==original.getClass()  
+- clone.equals(original)
 
