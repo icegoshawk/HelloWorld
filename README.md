@@ -4,8 +4,7 @@ First repository
 
 This is where I study and try functions of github.
 
-[**Google**](https://www.google.com.hk/?gws_rd=ssl)
-
+[**Google**](https://www.google.com.hk/?gws_rd=ssl)  
 [*GitHub*](https://github.com/)
 
 [WWDC - Apple Developer](https://developer.apple.com/wwdc/)
