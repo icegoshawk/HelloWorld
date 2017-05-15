@@ -1,13 +1,11 @@
 HelloWorld
 ==========
-
 First repository
 
 This is where I study and try functions of github.
 
 Updated
 ----------
-
 # Title 1
 ```
 private ThreadLocal<String> threadLocalFromSupplier = ThreadLocal.withInitial(() -> "ThreadLocal Initial Value");
@@ -36,10 +34,17 @@ Ordered columns
 4. Column 4
 5. Column 5
 6. Column 6
-###### Title 6
+
+Unordered items
 * Item 1
 * Item 2
 * Item 3
 - Item 4
 - Item 5
 - Item 6
+
+###### Title 6
+通用入口主方签名为`public static void main(String[] args);`，参数也可为可变参数`String... args`，即为`public static void main(String... args);`，还可扩充为`public strictfp final synchronized static void main(String[] args) throws Exception;`
+
+
+
